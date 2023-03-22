@@ -1,0 +1,21 @@
+# Archivos compilados
+*.class
+*.jar
+*.war
+
+# Carpetas de compilación
+bin/
+target/
+out/
+
+# Archivos de configuración específicos de tu IDE
+.settings/
+.idea/
+*.iml
+
+# Archivos de log y temporales
+log/
+temp/
+
+# Archivos de texto plano generados automáticamente
+*.txt~
